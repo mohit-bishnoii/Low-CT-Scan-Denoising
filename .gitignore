@@ -1,0 +1,27 @@
+# datasets
+
+data/
+
+# outputs
+outputs/
+logs/
+
+# checkpoints
+*.pth
+*.pt
+checkpoints/
+
+
+# cache
+__pycache__/
+*.pyc
+
+# env
+ldct_mamba/
+.env
+
+# system
+.DS_Store
+
+
+results/
