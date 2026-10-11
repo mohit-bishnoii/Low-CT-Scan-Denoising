@@ -190,7 +190,7 @@ Low-CT-Scan-Denoising/
 
 ```bash
 # Clone the repository
-git clone https://github.com/rpatidar284/Low-CT-Scan-Denoising.git
+git clone https://github.com/mohit-bishnoii/Low-CT-Scan-Denoising.git
 cd Low-CT-Scan-Denoising
 
 # Install dependencies
